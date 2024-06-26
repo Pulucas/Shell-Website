@@ -1,2 +1,2 @@
-# Where you can find the Original Repo
+# Where you can find the original repo
 https://github.com/Yukuro/hugo-theme-shell
