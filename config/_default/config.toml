@@ -27,7 +27,7 @@ ignoreErrors = ["error-remote-getjson"]
     # ...
     # Note: result of the tree command
     userName = "Aqua"
-    pcName = "lucaserver"
+    pcName = "myprofile"
     workDir = "info"
     profile = "profile.md"
 
@@ -68,10 +68,10 @@ ignoreErrors = ["error-remote-getjson"]
     folderName = "my-links"
     # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
     files = [ 
-      ["My Wesite", "https://never.lucash.art"],
-      ["My Word Translations Database", "https://words.lucash.art"],
       ["GitHub", "https://github.com/Pulucas/"],
       ["Discord", "https://discord.com/users/350509371064844290/"],
+      ["My Wesite", "https://never.lucash.art"],
+      ["My Word Translations Database", "https://words.lucash.art"],
       ["Where I Found This Website", "https://www.asciius.com/"],
       ["Where You Can Try This Yourself", "https://github.com/Yukuro/hugo-theme-shell/"],
     ]
