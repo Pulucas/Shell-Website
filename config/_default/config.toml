@@ -52,14 +52,7 @@ ignoreErrors = ["error-remote-getjson"]
 
     # activityDelay = 5 : deprecated
 
-    description = """
-    
-    Name: Aqua
-    Gender: Male
-    Pronouns: Ban/ana
-    Age: Unknown
-
-    """
+    description = "Name: Aqua<br>Gender: Male<br>Pronouns: Ban/ana<br>Age: Unknown"
 
     # Note: If you want to use a Markdown file, you can use the following
     # description = "/description.md"
