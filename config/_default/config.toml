@@ -38,7 +38,7 @@ ignoreErrors = ["error-remote-getjson"]
     # Note: and set "math: true" at front matter in your Markdown file
     ps1Delay = 0 # prompt speed : [userName]@[pcName]:~/$ , [userName]@[pcName]:~/[workDir]$
     stdoutDelay = 1 # stdout speed : [description] , files in Params.Tree
-    commandDelay = 50 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
+    commandDelay = 20 # command speed : cd [workDir] , cat [profile] , tree ./[folderName]/
 
     # terminalDelay = 20 : deprecated
 
@@ -55,7 +55,7 @@ ignoreErrors = ["error-remote-getjson"]
     description = """
     Name: Aqua
     Gender: Male
-    Pronouns: He/Him
+    Pronouns: Ban/ana
     Age: Unknown
     """
 
@@ -70,10 +70,9 @@ ignoreErrors = ["error-remote-getjson"]
     files = [ 
       ["GitHub", "https://github.com/Pulucas/"],
       ["Discord", "https://discord.com/users/350509371064844290/"],
-      ["My Wesite", "https://never.lucash.art"],
+      ["Cool Video", "https://never.lucash.art"],
+      ["Wordle Hosted By Me", "https://wordle.lucash.art/"],
       ["My Word Translations Database", "https://words.lucash.art"],
-      ["Where I Found This Website", "https://www.asciius.com/"],
-      ["Where You Can Try This Yourself", "https://github.com/Yukuro/hugo-theme-shell/"],
     ]
 
 [module]
