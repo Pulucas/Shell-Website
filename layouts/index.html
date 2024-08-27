@@ -15,7 +15,7 @@
     {{ $description = printf "<span id='terminal'>%s</span>" $s | safeHTML}}
     {{ else }}
     {{ $limit := sub (len (findRE "\n" .Site.Params.Terminal.description)) 1 }}
-    {{ $description = printf "<span id='terminal' style='color: rgb(250, 190, 230); text-shadow: 0px 0px 10px;'>%s</span>" .Site.Params.Terminal.description }}
+    {{ $description = printf "<span id='terminal' style='color: rgb(170, 200, 250); text-shadow: 0px 0px 10px;'>%s</span>" .Site.Params.Terminal.description }}
     {{ $description = replaceRE "\n" "<br>" $description $limit| safeHTML }}
     {{ end }}
 
