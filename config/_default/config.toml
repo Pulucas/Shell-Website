@@ -67,7 +67,6 @@ ignoreErrors = ["error-remote-getjson"]
       ["Discord", "https://discord.com/users/350509371064844290/"],
       ["Cool Video", "https://never.lucash.art"],
       ["Wordle Hosted By Me", "https://wordle.lucash.art/"],
-      ["My Word Translations Database", "https://words.lucash.art"],
     ]
 
 [module]
